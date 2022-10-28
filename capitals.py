@@ -33,7 +33,7 @@ capitals = {
     'Sweden': 'Stockholm',
     'Switzerland': 'Bern',
     'Ukraine': 'Kiev',
-    'United': 'Kingdom London',
+    'UnitedKingdom': 'London',
 }
 
 yn = input("Hello! Do you want to play a game? y/n: ")
